@@ -1177,6 +1177,9 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="noti_reminder_interval_3s">3 seconds</string>
     <string name="noti_reminder_interval_3dot5s">3.5 segundos</string>
     <string name="noti_reminder_interval_4s">4 segundos</string>
+    <string name="notification_category">Notificaciones</string>
+    <string name="notification_peek_title">Ojear notificaciones</string>
+    <string name="notification_peek_summary">Mostrar la última notificación
 
      <!-- Recent panel -->
     <string name="recent_panel_category">Panel de aplicaciones recientes</string>
