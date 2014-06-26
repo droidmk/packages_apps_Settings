@@ -1179,7 +1179,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="noti_reminder_interval_4s">4 segundos</string>
     <string name="notification_category">Notificaciones</string>
     <string name="notification_peek_title">Ojear notificaciones</string>
-    <string name="notification_peek_summary">Mostrar la última notificación
+    <string name="notification_peek_summary">Mostrar la última notificación</string>
 
      <!-- Recent panel -->
     <string name="recent_panel_category">Panel de aplicaciones recientes</string>
@@ -1208,5 +1208,4 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="app_moving_reboot_disabled_desc">Se ha deshabilitado el poder mover aplicaciones.\n\nPara que los cambios se apliquen es necesario reiniciar el dispositivo.</string>
     <string name="app_moving_reboot_now_button">Reiniciar ahora</string>
     <string name="app_moving_reboot_later_button">Reiniciar más tarde</string>
-
 </resources>
