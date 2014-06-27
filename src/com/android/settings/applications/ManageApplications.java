@@ -175,8 +175,7 @@ public class ManageApplications extends Fragment implements
     public static final int APP_MOVING_ENABLE = MENU_OPTIONS_BASE + 8;
     public static final int APP_MOVING_DISABLE = MENU_OPTIONS_BASE + 9;
     public static final int RESET_APP_PREFERENCES = MENU_OPTIONS_BASE + 10;
-    public static final int RESET_APP_PREFERENCES = MENU_OPTIONS_BASE + 8;
-    public static final int SHOW_PROTECTED_APPS = MENU_OPTIONS_BASE + 9;
+    public static final int SHOW_PROTECTED_APPS = MENU_OPTIONS_BASE + 11;
 
     // sort order
     private int mSortOrder = SORT_ORDER_ALPHA;
