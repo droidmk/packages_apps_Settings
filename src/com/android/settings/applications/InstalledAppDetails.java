@@ -539,6 +539,8 @@ public class InstalledAppDetails extends Fragment
         
         mNotificationSwitch = (CompoundButton) view.findViewById(R.id.notification_switch);
 
+	mAppOps = (AppOpsManager) getActivity().getSystemService(Context.APP_OPS_SERVICE);
+        mAppOpsButton = (Button) view.findViewById(R.id.app_ops_button);
         mBlacklistDialogView = inflater.inflate(R.layout.blacklist_dialog, null);
         mPeekBlacklist = (CheckBox) mBlacklistDialogView.findViewById(R.id.peek_blacklist);
         mFloatingBlacklist = (CheckBox) mBlacklistDialogView.findViewById(R.id.floating_blacklist);
